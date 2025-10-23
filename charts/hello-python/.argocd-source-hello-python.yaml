@@ -4,5 +4,5 @@ helm:
     value: ghcr.io/dsg501/hello-python
     forcestring: true
   - name: image.tag
-    value: 1.0.1
+    value: 0.2.1
     forcestring: true
