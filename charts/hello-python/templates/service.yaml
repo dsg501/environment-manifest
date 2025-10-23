@@ -12,10 +12,3 @@ spec:
     protocol: TCP
   selector:
     app: {{ .Chart.Name }}
-```
-
-**`.gitignore`**
-```
-# Helm
-*.tgz
-.helm
